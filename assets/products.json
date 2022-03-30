@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Sunset Scenery",
+      "imageURL": "https://i.pinimg.com/736x/cb/c6/62/cbc662299bd35357e519fe867444b86c.jpg",
+      "brand": "Jagmohan Rai",
+      "price": 20
+    },
+    {
+      "name": "Moon Light",
+      "imageURL": "https://i.ytimg.com/vi/MRfIkTwUxIw/maxresdefault.jpg",
+      "brand": "Rishabh Kumar",
+      "price": 29
+    },
+    {
+      "name": "Master Piece",
+      "imageURL": "https://m.media-amazon.com/images/I/81N+c2GkhuL._SX569_.jpg",
+      "brand": "Satyajeet sen",
+      "price": 19
+    },
+    {
+      "name": "Wall Painting",
+      "imageURL": "https://cdn.shopify.com/s/files/1/1306/4195/products/wallmantra-big-painting-night-and-day-fantasy-scenery-canvas-painting-30133331820710.jpg?v=1628505522",
+      "brand": "Neetu Garg",
+      "price": 23
+    }
+  ]
+}

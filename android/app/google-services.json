@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259915500681",
+    "firebase_url": "https://aahansingh-53bf8.firebaseio.com",
+    "project_id": "aahansingh-53bf8",
+    "storage_bucket": "aahansingh-53bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259915500681:android:bf108af4fd062e50eb4a58",
+        "android_client_info": {
+          "package_name": "com.example.artistcommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259915500681-nre5jhpoul6rr4svlq9e2d87ocv0jjhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artistcommerce",
+            "certificate_hash": "eaa9f3d301bd6954224f45aaf4efb43b9ab756fd"
+          }
+        },
+        {
+          "client_id": "259915500681-ufh4bbob6rin38ep5r24k0i7vtv35jnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9q8hHJDaEIO2i8dk1HdB3Wq4m6j-iPxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259915500681-c28rljg4nam740r1hn0i8vkj2ucf7aq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
